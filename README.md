@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JamBashir
+- 👋 Hi, I’m @JamBashir and I'm from Netherlands
 - 👀 I’m interested in [CODE]
 - 🌱 I’m currently learning [PYTHON] 
 - 💞️ I’m looking to collaborate on [YOU]
