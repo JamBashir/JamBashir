@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JamBashir and I'm from Netherlands
+- 👋 Hi, I’m @JamBashir and I'm from Netherlands, I'm a Student of computer science.
 - 👀 I’m interested in [CODE]
-- 🌱 I’m currently learning [PYTHON] 
-- 💞️ I’m looking to collaborate on [YOU]
+- 🌱 I’m currently learning [PYTHON and PHP] 
+- 💞️ I’m looking to collaborate on [Developers]
 - 📫 How to reach me [HERE]
 
 <!---
