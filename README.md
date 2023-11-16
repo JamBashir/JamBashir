@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JamBashir and I'm from Netherlands, I'm a Student of computer science.
+- 👋 Hi, I’m @JamBashir, I'm from Netherlands, I'm a Student of data science.
 - 👀 I’m interested in [Learn]
 - 🌱 I’m currently learning [PYTHON and PHP] 
 - 💞️ I’m looking to collaborate on [Developers]
