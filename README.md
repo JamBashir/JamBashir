@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @JamBashir, I'm from Nederlands, I'm a Student of computer.
+- 👋 Hello I’m @JamBashir
+- 🌍 I'm from Nederlands
+- 💻 I'm a Student of computer.
 - 👀 I’m interested in [Study]
 - 🌱 I’m currently learning [PYTHON and PHP] 
 - 💞️ I’m looking to collaborate on [Developers]
