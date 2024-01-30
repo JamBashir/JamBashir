@@ -1,4 +1,4 @@
-- 👋 Hello I’m @JamBashir
+- 👋 Hi I’m @JamBashir
 - 🌍 I'm from Switzerland
 - 💻 I'm a Student of computer
 - 👀 I’m interested in [Study]
