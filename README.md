@@ -1,6 +1,6 @@
  *** This is me ***
 - 👋 Hi I’m @JamBashir
-- 🌍 I'm from Switzerland
+- 🌍 I'm from Germany
 - 💻 I'm a Student of computer
 - 👀 I’m interested in [Study]
 - 🌱 I’m currently learning [PYTHON and PHP] 
