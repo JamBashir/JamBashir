@@ -2,7 +2,7 @@
 - 👋 Hi I’m @JamBashir
 - 🌍 I'm from Germany
 - 💻 I'm a Student of computer
-- 👀 I’m interested in [Study]
+- 👀 I’m interested in [Learning]
 - 🌱 I’m currently learning [PYTHON and PHP] 
 - 💞️ I’m looking to collaborate on [Developers]
 - 📫 How to reach me [Here]
