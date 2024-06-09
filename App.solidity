@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^1.02.13;
+pragma solidity ^1.0.03;
 
 contract Counter {
     uint256 public count;
