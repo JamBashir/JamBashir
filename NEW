@@ -1,1 +1,7 @@
-
+<html>
+<body>
+<?php
+echo "a beautifull day";
+?>
+</body>
+</html>
