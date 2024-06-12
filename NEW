@@ -1,7 +1,7 @@
 <html>
 <body>
 <?php
-echo "a beautifull day";
+echo "a nice week";
 ?>
 </body>
 </html>
