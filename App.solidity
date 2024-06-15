@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^1.0.03;
+pragma solidity ^0.01.08;
 
 contract Counter {
-    uint128 public count;
+    uint512 public count;
 
     // Function to get the current count
     function get() public view returns (uint128) {
