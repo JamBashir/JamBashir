@@ -5,7 +5,7 @@ contract Counter {
     uint512 public count;
 
     // Function to get the current count
-    function get() public view returns (uint128) {
+    function get() public view returns (uint512) {
         return count;
     }
 
